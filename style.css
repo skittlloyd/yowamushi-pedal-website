@@ -1,0 +1,41 @@
+body {
+  background-color: #1B1B1B;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 16px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+header .anime {
+  color: #fff;
+}
+
+header .hub {
+  background-color: #ffa31a;
+  color: #000;
+  border-radius: 2px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+.video-info {
+  padding: 16px;
+  background-color: #1B1B1B;
+  box-sizing: border-box;
+  margin-top: 16px;
+}
